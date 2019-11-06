@@ -2,7 +2,7 @@
         include_once 'includes/head.php';
         include_once 'includes/header.php';
     ?>
-    <h1>Titre principal</h1>
+    <h1>Titre principal de la page</h1>
     <?php
     include 'includes/test';
     ?>
